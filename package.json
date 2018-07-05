@@ -1,0 +1,48 @@
+{
+    "name": "maximago-essentials",
+    "displayName": "MAXIMAGO Essentials",
+    "description": "Awesome extension pack recommended by MAXIMAGO developers",
+    "version": "1.0.0",
+    "publisher": "maximagodev",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "icon": "icon.png",
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "eamodio.gitlens",
+        "2gua.rainbow-brackets", 
+        "Angular.ng-template",
+        "msjsdiag.debugger-for-chrome",
+        "bierner.markdown-preview-github-styles", 
+        "christian-kohler.path-intellisense", 
+        "EditorConfig.EditorConfig", 
+        "eg2.tslint", 
+        "esbenp.prettier-vscode", 
+        "formulahendry.auto-close-tag", 
+        "formulahendry.auto-complete-tag", 
+        "formulahendry.auto-rename-tag", 
+        "gabrielgrinberg.auto-run-command", 
+        "infinity1207.angular2-switcher", 
+        "maptz.camelcasenavigation", 
+        "Orta.vscode-jest", 
+        "PKief.material-icon-theme", 
+        "pranaygp.vscode-css-peek", 
+        "RoscoP.ActiveFileInStatusBar", 
+        "steoates.autoimport", 
+        "WallabyJs.wallaby-vscode", 
+        "zhuangtongfa.Material-theme", 
+        "Zignd.html-css-class-completion",
+        "PeterJausovec.vscode-docker",
+        "joelday.docthis",
+        "Shan.code-settings-sync",
+        "cssho.vscode-svgviewer",
+        "WallabyJs.quokka-vscode",
+        "oderwat.indent-rainbow",
+        "bierner.color-info",
+        "teabyii.ayu",
+        "robertohuertasm.vscode-icons"
+    ]
+}
