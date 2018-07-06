@@ -4,9 +4,9 @@ A Visual Studio Code extension collection recommended by MAXIMAGO developers.
 
 Unfortunately, VSCode currently does not support "soft" dependencies. Therefore, you need to install and then uninstall this extension in case you want to disable or remove specific extensions from the collection. 
 
-## Code Extensions
+## Code cxtensions
 
-Code Extensions add language features or other useful tools to the Visual Studio Code Editor.
+Code extensions add language features or other useful tools to the Visual Studio Code Editor.
 
 - [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 
@@ -66,7 +66,7 @@ These extensions support developers by integrating tests into the IDE:
 
 ## Editor Extensions
 
-Diese Extensions erweitern Visual Studio Code selbst um nützliche Funktionen oder Informationen:
+These extensions enhance the Visual Studio Code Editor and add useful features or information:
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
